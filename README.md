@@ -7,7 +7,7 @@ Apple has made creating screenshots for iTunes Connect a huge pain in the ass wi
 
 *This is an early draft of this resource.* You should only need to make edits and adjustments on the first page (called Setup). The other pages will be automatically changed with the info you swap here.
 
-![image](http://f.cl.ly/items/3M0U400M3X1K3H1O1W06/Screen%20Shot%202014-11-05%20at%202.07.04%20PM.png)
+![image](http://f.cl.ly/items/0K0L2H2I131f402I0C2d/Vector%203.png)
 
 Whenever you’re ready, do a File → Export.
 
