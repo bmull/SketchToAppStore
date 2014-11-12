@@ -1,11 +1,13 @@
-sketch-appstore-assets
+Sketch App Store Assets
 ======================
 
-Apple has made creating screenshots for iTunes Connect a huge pain in the ass with the new phone sizes. I created this to hopefully save everyone some time.
+**Generate App Store images for all iPhone sizes from Sketch**
+
+With the new iPhones, it's now a huge pain to create screenshots for iTunes Connect. This tool was created to save you a ton of time.
 
 # How it works
 
-*This is an early draft of this resource.* You should only need to make edits and adjustments on the first page (called Setup). The other pages will be automatically changed with the info you swap here.
+You should only need to make edits and adjustments on the first page (called Setup). The other pages will be automatically changed with the info you swap there.
 
 ![image](http://f.cl.ly/items/0K0L2H2I131f402I0C2d/Vector%203.png)
 
