@@ -7,8 +7,6 @@ With the new iPhones, it's now a huge pain to create screenshots for iTunes Conn
 
 # How it works
 
-You should only need to make edits and adjustments on the first page (called Setup). The other pages will be automatically changed with the info you swap there.
-
 ![image](http://f.cl.ly/items/0K0L2H2I131f402I0C2d/Vector%203.png)
 
 Whenever you’re ready, do a File → Export.
