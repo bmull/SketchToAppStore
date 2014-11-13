@@ -1,4 +1,4 @@
-Sketch App Store Assets
+Sketch to App Store
 ======================
 
 **Generate App Store images for all iPhone sizes from Sketch**
