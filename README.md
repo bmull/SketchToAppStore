@@ -2,7 +2,8 @@ Sketch to App Store
 ======================
 
 **Generate App Store images for all iPhone sizes from Sketch**
-*Because so many changes to the file structure were changed with the update, Sketch 3.1 is required.*
+
+*Because the file structure was changed with the update, Sketch 3.1 is required.*
 
 With the new iPhones, it's now a huge pain to create screenshots for iTunes Connect. This tool was created to save you a ton of time.
 
