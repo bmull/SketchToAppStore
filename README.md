@@ -25,4 +25,7 @@ Just choose a folder and the files will be exported like this. They are exported
 
 ![image](http://f.cl.ly/items/153E1U0C171g1v0e0123/Screen%20Shot%202014-11-05%20at%202.11.10%20PM.png)
 
-Please send any feedback to b@bmull.com.
+Please send any feedback to bmulligan@getcluster.com
+
+# Download Now
+You can download the file directly by [clicking here](https://github.com/clusterinc/SketchToAppStore/blob/master/App%20Store%20Assets.sketch).
