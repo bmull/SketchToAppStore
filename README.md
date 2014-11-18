@@ -28,4 +28,4 @@ Just choose a folder and the files will be exported like this. They are exported
 Please send any feedback to bmulligan@getcluster.com
 
 # Download Now
-You can download the file directly by [clicking here](https://github.com/clusterinc/SketchToAppStore/blob/master/App%20Store%20Assets.sketch).
+You can download the file directly by [clicking here](https://github.com/clusterinc/SketchToAppStore/blob/master/App%20Store%20Assets.sketch?raw=true).
