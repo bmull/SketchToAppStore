@@ -29,3 +29,8 @@ Please send any feedback to bmulligan@getcluster.com
 
 # Download Now
 You can download the file directly by [clicking here](https://github.com/clusterinc/SketchToAppStore/blob/master/App%20Store%20Assets.sketch?raw=true).
+
+# Other Resources
+- [Deliver](https://github.com/KrauseFx/deliver): Automatically upload all generated screenshots to iTunes Connect
+- [Snapshot](https://github.com/KrauseFx/snapshot) to create screenshots in all languages
+- [clean status bar tool](https://github.com/shinydevelopment/SimulatorStatusMagic)
