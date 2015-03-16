@@ -1,9 +1,7 @@
 Sketch to App Store
 ======================
 
-**Generate App Store images for all iPhone sizes from Sketch**
-
-*Because the file structure was changed with the update, Sketch 3.1 is required.*
+**Generate App Store images from Sketch 3.1 and above**
 
 With the new iPhones, it's now a huge pain to create screenshots for iTunes Connect. This tool was created to save you a ton of time.
 
@@ -39,6 +37,7 @@ You can download the file directly by [clicking here](https://github.com/cluster
 - [Screenshot Builder](https://launchkit.io/screenshots/): A web based version of this tool. (by [LaunchKit](https://launchkit.io/))
 - [App Store Review Monitor](https://launchkit.io/reviews/): The best way to track App Store reviews using Slack & email. (by [LaunchKit](https://launchkit.io/))
 - [Deliver](https://github.com/KrauseFx/deliver): Automatically upload all generated screenshots to iTunes Connect
-- [Deliver](https://github.com/KrauseFx/deliver): Automatically upload all generated screenshots to iTunes Connect
 - [Snapshot](https://github.com/KrauseFx/snapshot) to create screenshots in all languages
 - [clean status bar tool](https://github.com/shinydevelopment/SimulatorStatusMagic)
+
+*Thanks to [ryankeairns](https://github.com/ryankeairns) for adding iPad support!*
