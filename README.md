@@ -1,7 +1,7 @@
 Sketch to App Store
 ======================
 
-**Generate App Store images from Sketch 3.1 and above**
+**Generate App Store images from Sketch 3.4.4 and above**
 
 With the new iPhones, it's now a huge pain to create screenshots for iTunes Connect. This tool was created to save you a ton of time.
 
