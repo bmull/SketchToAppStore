@@ -12,7 +12,7 @@ No problem. **Use [LaunchKit's Screenshot Builder on the web](https://launchkit.
 
 # How it works
 
-![image](http://f.cl.ly/items/263o0Y382m19060y2J2g/Instructions.png)
+![image](https://s3.amazonaws.com/f.cl.ly/items/3O3o0C2E47022V3T0p0l/Instructions.jpg)
 
 Whenever you’re ready, do a File → Export.
 
