@@ -36,8 +36,8 @@ You can download the file directly by [clicking here](https://github.com/LaunchK
 # Other Resources
 - [Screenshot Builder](https://launchkit.io/screenshots/): A web based version of this tool. (by [LaunchKit](https://launchkit.io/))
 - [App Store Review Monitor](https://launchkit.io/reviews/): The best way to track App Store reviews using Slack & email. (by [LaunchKit](https://launchkit.io/))
-- [Deliver](https://github.com/KrauseFx/deliver): Automatically upload all generated screenshots to iTunes Connect
-- [Snapshot](https://github.com/KrauseFx/snapshot) to create screenshots in all languages
+- [Deliver](https://github.com/fastlane/deliver): Automatically upload all generated screenshots to iTunes Connect
+- [Snapshot](https://github.com/fastlane/snapshot) to create screenshots in all languages
 - [clean status bar tool](https://github.com/shinydevelopment/SimulatorStatusMagic)
 
 *Thanks to [ryankeairns](https://github.com/ryankeairns) for adding iPad support!*
