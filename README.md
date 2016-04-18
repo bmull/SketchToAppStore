@@ -28,10 +28,10 @@ Just choose a folder and the files will be exported like this. They are exported
 
 ![image](http://f.cl.ly/items/153E1U0C171g1v0e0123/Screen%20Shot%202014-11-05%20at%202.11.10%20PM.png)
 
-Please send any feedback to brenden@getcluster.com
+Please send any feedback to brenden@launchkit.io
 
 # Download Now
-You can download the file directly by [clicking here](https://github.com/clusterinc/SketchToAppStore/blob/master/App%20Store%20Assets.sketch?raw=true).
+You can download the file directly by [clicking here](https://github.com/LaunchKit/SketchToAppStore/blob/master/SketchToAppStore.sketch?raw=true).
 
 # Other Resources
 - [Screenshot Builder](https://launchkit.io/screenshots/): A web based version of this tool. (by [LaunchKit](https://launchkit.io/))
