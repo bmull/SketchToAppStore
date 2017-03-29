@@ -5,11 +5,6 @@ Sketch to App Store
 
 With the new iPhones, it's now a huge pain to create screenshots for iTunes Connect. This tool was created to save you a ton of time.
 
-## Don't have Sketch?
-
-No problem. **Use [LaunchKit's Screenshot Builder on the web](https://launchkit.io/screenshots/)!**
-
-
 # How it works
 
 ![image](https://s3.amazonaws.com/f.cl.ly/items/3O3o0C2E47022V3T0p0l/Instructions.jpg)
@@ -32,12 +27,3 @@ Please send any feedback to brenden@launchkit.io
 
 # Download Now
 You can download the file directly by [clicking here](https://github.com/LaunchKit/SketchToAppStore/blob/master/SketchToAppStore.sketch?raw=true).
-
-# Other Resources
-- [Screenshot Builder](https://launchkit.io/screenshots/): A web based version of this tool. (by [LaunchKit](https://launchkit.io/))
-- [App Store Review Monitor](https://launchkit.io/reviews/): The best way to track App Store reviews using Slack & email. (by [LaunchKit](https://launchkit.io/))
-- [Deliver](https://github.com/fastlane/deliver): Automatically upload all generated screenshots to iTunes Connect
-- [Snapshot](https://github.com/fastlane/snapshot) to create screenshots in all languages
-- [clean status bar tool](https://github.com/shinydevelopment/SimulatorStatusMagic)
-
-*Thanks to [ryankeairns](https://github.com/ryankeairns) for adding iPad support!*
